@@ -8,7 +8,7 @@
  <a href="https://github.com/ThePseudoQuant" alt="Github">
    <img src="https://img.shields.io/badge/-@ThePseudoQuant-%23181717?style=flat-square&logo=github" />
  </a>
-   <img src="https://img.shields.io/badge/-@Rehaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rehaan-ahmed-thepseudoquant" /> -->
+   <img src="https://img.shields.io/badge/-@Rehaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rehaan-ahmed-financial-analyst/" /> -->
 
  <a href="https://" alt="blog">
    <img src="https://img.shields.io/badge/ThePseudoQuant-FFA500?style=flat-square&logo=rss&logoColor=white" />
