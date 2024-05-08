@@ -6,12 +6,12 @@
 
 <p align="center">
  <a href="https://github.com/ThePseudoQuant" alt="Github">
-   <img src="https://img.shields.io/badge/-@atulsingh0-%23181717?style=flat-square&logo=github" />
+   <img src="https://img.shields.io/badge/-@ThePseudoQuant-%23181717?style=flat-square&logo=github" />
  </a>
-   <img src="https://img.shields.io/badge/-ThePseudoQuant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rehaan-ahmed-thepseudoquant" /> -->
+   <img src="https://img.shields.io/badge/-@Rehaan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rehaan-ahmed-thepseudoquant" /> -->
 
- <a href="https://www.datagenx.net" alt="Atul's blog">
-   <img src="https://img.shields.io/badge/atulsingh0-FFA500?style=flat-square&logo=rss&logoColor=white" />
+ <a href="https://" alt="blog">
+   <img src="https://img.shields.io/badge/ThePseudoQuant-FFA500?style=flat-square&logo=rss&logoColor=white" />
  </a>
  <a href="https://twitter.com/thepseudoquant" alt="X">
    <img src="https://img.shields.io/badge/-@datagenx-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
