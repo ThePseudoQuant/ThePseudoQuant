@@ -15,7 +15,7 @@
  </a>  
 </p>
 
-As the Name “PseudoQuant” might give away - I am a passionate wannabe PythonicQuant with an insatiable sense of Intellectual Curiosity, that absolutely LOVES the application of Complex Maths and Programming in Financial markets, But is not very good at either. (Yet!)
+PseudoQuant
 
 - ✏  I blog here: X
 - 📕 My reading [list](https:)
